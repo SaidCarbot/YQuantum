@@ -203,11 +203,11 @@ Algorithm outline:
 |---------------------------|----------------------------|
 | Largest Integer Factored  | *13081178794322790282667*              |
 | bit length          | *74*                  |
-| a value          | *6452409114750336274754*                  |
+| a value          | *4879848756573211093912*                  |
 | Computed Factors          | *104893902637, 124708667191*                  |
 | Qubits Used               | *75*          |
-| Quantum Gate Count        | *1901*           |
-| Execution Time            | *5:30 hours*                  |
+| Quantum Gate Count        | *1827*           |
+| Execution Time            | *30212.5172 seconds: like 8 hours*                  |
 
 
 
